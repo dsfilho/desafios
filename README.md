@@ -74,3 +74,52 @@ Exemplo:
  - Por exemplo, se a quantia solicitada for R$ 187,00, o programa deverá indicar uma nota de R$ 100,00, uma nota de R$ 50,00 , uma nota de R$ 20,00 , uma nota de R$ 10,00 , uma nota de R$ 5,00 e uma nota de R$ 2,00.
 
 - O caixa eletrônico utiliza notas de R$ 100,00, R$ 50,00, R$ 20,00, R$ 10,00, R$ 5,00 e R$ 2,00.
+
+# Desafio Capgemini
+
+## Questão 01 - Desafio Mediana
+
+A mediana de uma lista de números é basicamente o elemento que se encontra no meio da lista após a ordenação. Dada uma lista de números com um número ímpar de elementos, desenvolva um algoritmo que encontre a mediana.
+
+Exemplo:
+
+Entrada:
+
+arr = [9, 2, 1, 4, 6]
+
+
+Saída: 4
+
+## Questão 02 - Desafio Elementos Pares
+
+Dado um vetor de inteiros n e um inteiro qualquer x. Construa um algoritmo que determine o número de elementos pares do vetor que tem uma diferença igual ao valor de x.
+
+Exemplo:
+
+Entrada: n = [1, 5, 3, 4, 2]
+Saída:3
+
+Explicação: Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 3], [4, 2] e [3, 1].
+
+
+## Para testar as minhas soluções você pode: 
+1 - Clonar o meu repositório com o comando: git clone https://github.com/dsfilho/DesafioCapgemin.git
+2 - Efetuar o download em formato zip:  https://github.com/dsfilho/DesafioCapgemin/archive/refs/heads/main.zip
+
+## Como executar as soluções propostas?
+A forma mais simples é importar o projeto utilizando a IDE(Ambiente Integrado de Desenvolvimento), de sua prefrẽncia. Abaixo mostro como realizar o processo utilizando o Eclipse Ver. 021-12 (4.22.0)
+
+ 1 - Abra o eclipe, clique em File(arquivo) e depois em Import(importar)
+ ![Primeiro Passo](https://www.mesalvati.com.br/cpDaniel/01.png)
+
+ 2- Selecione General(geral) Projects from Folder or Archive (Projetos da pasta ou arquivo) e depois clique em Next(Próximo)
+  ![Segundo Passo](https://www.mesalvati.com.br/cpDaniel/02.png)
+  
+ 3- Clique em Directory(diretório), selecione o diretorio do projeto clonado ou baixado e cliquem em Finish(finalizar)
+  ![Terceiro Passo](https://www.mesalvati.com.br/cpDaniel/03.png)
+
+ 4- Se tudo funcionou como esperado, você deverá ver do lado direito na guia de projetos o projeto importado.
+![Quarto Passo](https://www.mesalvati.com.br/cpDaniel/04.png)
+
+05- Agora basta selecionar a classe Principal e clicar no botão verde Run(executar)
+![Quinto Passo](https://www.mesalvati.com.br/cpDaniel/05.png)
