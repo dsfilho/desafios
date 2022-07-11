@@ -1,0 +1,8 @@
+encher jarro_2-3
+despejar jarro_2->jarro1
+encher jarro2
+despejar jarro2->jarro1
+esvaziar jarro1
+despejar jarro2->jarro1
+encher jarro2
+despejar jarro2->jarro1
