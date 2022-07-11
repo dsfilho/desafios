@@ -104,7 +104,7 @@ Explicação: Existem 3 pares de inteiros no vetor com uma diferença de 2: [5, 
 
 ## Para testar as minhas soluções você pode: 
 1 - Clonar o meu repositório com o comando: git clone git@github.com:dsfilho/desafios-programacao.git
-2 - Efetuar o download em formato zip:  https://github.com/dsfilho/DesafioCapgemin/archive/refs/heads/main.zip
+2 - Efetuar o download em formato zip:  https://github.com/dsfilho/desafios-programacao/archive/refs/heads/main.zip
 
 ## Como executar as soluções propostas?
 A forma mais simples é importar o projeto utilizando a IDE(Ambiente Integrado de Desenvolvimento), de sua prefrẽncia. Abaixo mostro como realizar o processo utilizando o Eclipse Ver. 021-12 (4.22.0)
